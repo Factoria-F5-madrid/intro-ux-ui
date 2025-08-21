@@ -21,7 +21,7 @@ En esta clase aprenderás conceptos básicos y buenas prácticas para aplicar en
 
 ---
 
-[Link de presentación en Canva]([https://direccion-del-link.com](https://www.canva.com/design/DAGwtNGiCAg/_gY58x0SS10UbdjjSu_R6g/view?utm_content=DAGwtNGiCAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31c2451a6b))
+[Link de presentación en Canva](https://www.canva.com/design/DAGwtNGiCAg/_gY58x0SS10UbdjjSu_R6g/view?utm_content=DAGwtNGiCAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31c2451a6b)
 
 
 ## Objetivos de la clase
