@@ -2,8 +2,8 @@
 
 ## Índice
 1. [¿Qué es UX/UI?](#qué-es-uxui)
-2. [Objetivos de la clase](#objetivos-de-la-clase)
-3. [Recursos y links](#recursos-y-links)
+2. [Recursos y links](#recursos-y-links)
+3. [Objetivos de la clase](#figma-la-herramienta-para-prototipar)
 
 ---
 
@@ -23,13 +23,6 @@ En esta clase aprenderás conceptos básicos y buenas prácticas para aplicar en
 
 [Link de presentación en Canva](https://www.canva.com/design/DAGwtNGiCAg/_gY58x0SS10UbdjjSu_R6g/view?utm_content=DAGwtNGiCAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31c2451a6b)
 
-
-## Objetivos de la clase
-- Entender la diferencia entre UX y UI.  
-- Conocer herramientas para prototipar interfaces.  
-- Explorar buenas prácticas de accesibilidad y usabilidad.  
-- Aplicar ejemplos prácticos en ejercicios.  
-
 ---
 
 ## Recursos y links
@@ -37,13 +30,17 @@ En esta clase aprenderás conceptos básicos y buenas prácticas para aplicar en
 - [Leyes de UX](https://laws-of-ux.com/es/)  
 - [Material Design (Google)](https://m3.material.io/)  
 - [Human Interface Guidelines (Apple)](https://developer.apple.com/design/human-interface-guidelines/)  
-- [UX Collective en Medium](https://uxdesign.cc/)  
+- [UX Collective en Medium](https://uxdesign.cc/)
+- [Practical UI_Adham Dannaway](https://drive.google.com/file/d/10OAARaCPdSzFYcDcmydQveRp1iVDyZgm/view?usp=sharing)
+- [Excalidraw para diagramas de flujo](https://excalidraw.com)
+  
 
-🛠️ Herramientas recomendadas:
-- [Figma](https://www.figma.com/)  
-- [Miro](https://miro.com/)  
-- [Canva](https://www.canva.com/)  
-- [Coolors (paletas de color)](https://coolors.co/)  
+## Figma la Herramienta para prototipar
+- [Figma y Figjam](https://www.figma.com/)
+- [Ejemplo de caso de estudio](https://www.behance.net/gallery/139082073/TampiGO-UXUI-Case-Study)
+- [Ejemplo de prototipado](https://www.figma.com/proto/809QcH4CkVQRQV3tMVvrKt/TampiGO--App-Design--Copy-?page-id=146%3A239&node-id=176-3047&p=f&viewport=233%2C261%2C0.12&t=SVkUYYnDeyfjZpCs-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=176%3A2998)
+- [Tutorial Figma](https://www.youtube.com/watch?v=rgOOYOKqpXw)
+- [Taller de Figma - Desafío Latam](https://cursos.desafiolatam.com/courses/taller-figma)
 
 ---
 
