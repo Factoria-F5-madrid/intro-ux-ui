@@ -8,9 +8,9 @@
 ---
 
 ## ¿Qué es UX/UI?
-Video introductorio:
+Video introductorio con Don Norman (padre de la usabilidad):
 
-[![Video introductorio](https://img.youtube.com/vi/yY96hTb8WgI/0.jpg)](https://www.youtube.com/watch?v=yY96hTb8WgI)
+[![Video introductorio](https://img.youtube.com/vi/yY96hTb8WgI/1.jpg)](https://www.youtube.com/watch?v=yY96hTb8WgI)
 
 UX (User Experience) y UI (User Interface) son dos disciplinas del diseño digital enfocadas en crear productos fáciles de usar, agradables e intuitivos.
 
