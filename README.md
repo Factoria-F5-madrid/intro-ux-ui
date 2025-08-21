@@ -8,7 +8,7 @@
 ---
 
 ## ¿Qué es UX/UI?
-Video introductorio con Don Norman (padre de la usabilidad):
+Video introductorio con Don Norman (padre del diseño centrado en el usuario):
 
 [![Video introductorio](https://img.youtube.com/vi/yY96hTb8WgI/1.jpg)](https://www.youtube.com/watch?v=yY96hTb8WgI)
 
@@ -20,6 +20,9 @@ UX (User Experience) y UI (User Interface) son dos disciplinas del diseño digit
 En esta clase aprenderás conceptos básicos y buenas prácticas para aplicar en proyectos web y móviles.
 
 ---
+
+[Link de presentación en Canva]([https://direccion-del-link.com](https://www.canva.com/design/DAGwtNGiCAg/_gY58x0SS10UbdjjSu_R6g/view?utm_content=DAGwtNGiCAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h31c2451a6b))
+
 
 ## Objetivos de la clase
 - Entender la diferencia entre UX y UI.  
